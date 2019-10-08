@@ -5,7 +5,9 @@
     display:grid; 
     grid-template-columns: repeat(3,100px);
     grid-template-rows: repeat(2, 150px);
-    grid-gap: 20px;
+    row-gap: 20px; 
+    coulumn-gap: 20px;
+
 } 
 
 #box1 { 
