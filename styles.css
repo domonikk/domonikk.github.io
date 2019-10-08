@@ -6,7 +6,7 @@
     grid-template-columns: repeat(3,100px);
     grid-template-rows: repeat(2, 150px);
     row-gap: 40px; 
-    column-gap: 400px;
+    column-gap: 200px;
 
 } 
 
