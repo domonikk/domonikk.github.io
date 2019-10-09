@@ -9,13 +9,15 @@ header{
     flex-direction: column;
     grid-column: 1/span 4;
     grid-row: 1;
-    margin: 2px 5px;
+    margin: 5px 5px;
     background-color: aquamarine;
     text-align: center;
     color: white; 
     font-family: 'Times New Roman', Times, serif; 
     padding-top: 1.5em;
-    padding-bottom: 1.5 em; 
+    padding-bottom: 1.5 em;  
+    padding-left: 1em; 
+    padding-right: 1em;
 } 
 
 .header{ 
