@@ -15,13 +15,15 @@ header{
     color: white; 
     font-family: 'Times New Roman', Times, serif; 
     padding-top: 1.5em;
-    padding-bottom: 1.5 em;   
+    padding-bottom: 1.5 em; 
+    padding-left: 5px;
+    padding-right: 5px;  
 } 
 
 .header{ 
     margin: 50px;
     font-size: 20px;
-    border-left: 6px  solid white;
+    border: 1px  solid white;
 }
 
 .Sidebar{ 
