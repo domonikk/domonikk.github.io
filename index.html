@@ -1,56 +1,109 @@
 <!DOCTYPE html> 
 <!--Resume Webpage created by Domonique Eccleston (620110584)--> 
 <html lang="eng">
-    <head>
-        <link type="text/css" rel="stylesheet" href="styles.css"/> 
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=devicewidth, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">   
+    <head> 
+        <title>Resume</title>
+        <link type="text/css" rel="stylesheet" href="styles.css"> 
+        <meta charset="UTF-8">    
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>  
 
     <body>  
-        <div class="grid-container"> 
-            <div id="box1" class= "header">     
-                <h1>Domonique Eccleston (Web Developer/User Interface Designer)</h1>    
-            </div> 
+        <header>
+            <div class="header">     
+                <h1>Domonique Eccleston</h1>  
+                <p>Web Developer/User Interface Designer</p>  
+            </div>  
+        </header> 
+        
+        <div class="Sidebar">  
+                 <img id="Profile pic" src="me.jpg">
+                 
+                 <section class="contact"> 
+                        <h2>Contact</h2>    
+                        <ul class="fa-ul"> 
+                            <li><span class="fa-li"<i class="fas fa-phone"></i></span> (876) 799-4567 </li>  
+                            <li><span class="fa-li"><i class=" fas fa-envelope"></i></span><a href=mailto:domonique.eccleston@gmail.com>domonique.eccleston</a></li>     
+                            <li><span class="fa-li"><i class ="fas fa-globe"></i></span><a href=DomoniqueE.com>DomoniqueE.com</a></li>
+                        </ul> 
+                 </section> 
 
-            <div id= "box2" class="Sidebar">  
-                 <img id="Profile pic" src="me.jpg"> <h2>Contact</h2>   
-                 <img src="https://www.flaticon.com/free-icon/telephone-handle-silhouette_25453#term=phone&page=1&position=39"> (876) 778-2345 <br> 
-                 <img src="https://www.flaticon.com/premium-icon/new-email-interface-symbol-of-black-closed-envelope_46951" > <a href="mailto:domonique.eccleston@gmail.com">domonique.eccleston@gmail.com</a><br>
-                 <i class="fa fa-globe"></i> 
-                 <a href="example.com">example.com</a>
+                 <hr class="divide"> 
 
-                 <h2>Social Media</h2>  
-                 <a href="https://tweetdeck.twitter.com">twitter.com/domo_laj</a><br> 
-                 <a href="https://www.instagram.com/?hl=en">instagram.com/domonikk</a>
+                 <section class="Social"> 
+                     <h2>Social Media</h2> 
+                     <ul class="fa-ul"> 
+                         <li><span class=" fa-li"><i class=" fab fa-instagram"></i></span><a href="https://tweetdeck.twitter.com">twitter.com/domo_laj</a></li> 
+                         <li><span class=" fa-li"><i class= "fab fa-instagram"></i></span><a href="https://www.instagram.com/?hl=en">instagram.com/domonikk</a></li>
+                     </ul>
+                 </section> 
+        </div> 
+        
+        <div class="Main"> 
 
-                </div> 
-
-            <div id="box3" class="Main">
+            <section class="bio"> 
                 <h2>Biography</h2> 
-                <p></p> 
-
-                <h2>Work Experience</h2> 
-
-                <h3>2017-2019  Web Developer</h3> 
-                <p>Created numerous webpages over the span of three years for multiple clients whether for business or personal activities.</p>  
-
-                <h2>Education</h2> 
-                <h3>2017-2020  Bsc Computer SCience</h3> 
-                <p>The University of the West Indies,Mona</p>
-
-               <h2>Skills/Expertise</h2> 
-               <ul>
-                   <li>CSS</li> 
-                   <li>HTML</li> 
-                   <li>JavaScript</li> 
-                   <li>Python</li> 
-                   <li>Git</li>
-              </ul> 
+                <p></p>  
+            </section>
+                            
             
-            </div>
+            <hr class="divide"> 
 
+            <section class="experience"> 
+                <h2>Work Experience</h2>  
+                <section class="description">
+                    <span class="duration">....</span> 
+                    <div class="info"> 
+                        <h3></h3> 
+                        <p></p>
+                    </div>
+                </section>
+    
+            </section>  
+
+            <hr class="divide"> 
+
+            <section class="Education"> 
+                <h2>Education</h2> 
+                <section class="description">
+                    <span class="duration">.....</span>  
+                    <div class="info">
+                        <h3></h3> 
+                        <p></p>
+                    </div>     
+                </section> 
+
+                <section class="description">
+                    <span class="duration">September 2017-Present</span>  
+                    <div class="info">
+                        <h3>Bsc Computer SCience</h3> 
+                        <p>The University of the West Indies,Mona</p>
+                    </div>
+                </section>
+            </section>  
+
+            <hr class="divide">
+
+            <section class="expertise"> 
+                <h2>Skills/Expertise</h2>  
+                <section class="skills">
+                    <section class="expertise-right">
+                        <li>CSS</li> 
+                        <li>HTML</li> 
+                        <li>JavaScript</li> 
+                        <li>Python</li> 
+                        <li>Git</li>
+                    </section> 
+
+                    <section class="expertise-left"> 
+                        <li>Java</li>
+                        <li>C/C++</li> 
+                        <li>Access Database</li> 
+                        <li>Microsoft Excel</li>
+                        <li>Microsoft Word</li> 
+                    </section>
+                </section>
+            </section>
         </div>
     </body>
 </html>
