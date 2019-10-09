@@ -1,6 +1,6 @@
 .grid-container{ 
     display:grid; 
-    grid-area: 40% 60% 5% 30% 60% 5%;
+    grid-area: 40% 60%/ 5% 30% 60% 5%;
     grid-gap: 3em 10px;
 }
 
