@@ -15,9 +15,8 @@ header{
     color: white; 
     font-family: 'Times New Roman', Times, serif; 
     padding-top: 1.5em;
-    padding-bottom: 1.5 em;  
-    padding-left: 1em; 
-    padding-right: 1em;
+    padding-bottom: 1.5 em;   
+    border-width: 5px;
 } 
 
 .header{ 
