@@ -16,13 +16,12 @@ header{
     font-family: 'Times New Roman', Times, serif; 
     padding-top: 1.5em;
     padding-bottom: 1.5 em;   
-    border-width: 5px;
 } 
 
 .header{ 
     margin: 50px;
     font-size: 20px;
-    border: 1px solid white;
+    border: 1px 4px solid white;
 }
 
 .Sidebar{ 
