@@ -24,7 +24,7 @@ header{
 }
 
 .Sidebar{ 
-    grid-column: 2;
+    grid-column: span 2;
     grid-row: 2;
     background-color: beige;
 } 
