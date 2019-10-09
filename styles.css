@@ -21,7 +21,7 @@ header{
 .header{ 
     margin: 50px;
     font-size: 20px;
-    border: 1px 4px solid white;
+    border-left: 1px  solid white;
 }
 
 .Sidebar{ 
