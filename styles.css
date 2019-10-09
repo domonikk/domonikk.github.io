@@ -39,4 +39,16 @@ header{
     grid-row: 2;
     margin-left: 2em;
     margin-right: 2em
+} 
+
+.contact{
+    padding-bottom: 2em; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+} 
+
+.media{
+    padding-top: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;   
 }
