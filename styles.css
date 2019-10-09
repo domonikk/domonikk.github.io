@@ -16,8 +16,8 @@ header{
     font-family: 'Times New Roman', Times, serif; 
     padding-top: 1.5em;
     padding-bottom: 1.5 em; 
-    padding-left: 30em;
-    padding-right: 30em;  
+    padding-left: 25em;
+    padding-right: 25em;  
 } 
 
 .header{ 
@@ -27,8 +27,8 @@ header{
 }
 
 .Sidebar{ 
-    grid-column: 2;
-    grid-row: 2;
+    grid-column: 1;
+    grid-row: 1;
     background-color: beige;
 } 
 
@@ -58,7 +58,7 @@ img{
 } 
 
 .Main{
-    grid-column: 3;
+    grid-column: 2;
     grid-row: 2;
     margin-left: 2em;
     margin-right: 2em
