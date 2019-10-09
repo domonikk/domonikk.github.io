@@ -1,9 +1,8 @@
 .grid-container{ 
     display:grid; 
     grid-area: 40% 60% 5% 30% 60% 5%;
-    row-gap: 3em; 
-    column-gap: 10px;
-} 
+    grid-gap: 3em 10px;
+}
 
 header{
     display: flex; 
