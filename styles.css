@@ -1,7 +1,7 @@
 .grid-container{ 
     display:grid; 
     grid-area: 40% 60% / 5% 30% 60% 5%;
-    grid-gap: 3em 30px;
+    grid-gap: 3em 50px;
 }
 
 header{
@@ -15,7 +15,9 @@ header{
     color: white; 
     font-family: 'Berkshire Swash', cursive;
     padding-top: 1.5em;
-    padding-bottom: 1.5em;  
+    padding-bottom: 1.5em;   
+    padding-right: 30px; 
+    padding-left:30px;
 } 
 
 .header{ 
@@ -97,14 +99,14 @@ img{
 .description .info{  
     text-align: left;  
     margin-top: auto;
-    margin-left: 180px;
+    margin-left: 100px;
     float: left; 
     margin-top:-30px;
 }  
 
 .description .info2{
     margin-left: 180px; 
-    margin-top:-25px;---
+    margin-top:-25px;
 } 
 
 .description .info3{
