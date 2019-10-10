@@ -34,7 +34,6 @@ header{
 }
 
 .Sidebar h2{
-    text-align: left; 
     color: black; 
     font-family:'Scheherazade', serif;
     font-weight: bold; 
@@ -142,7 +141,7 @@ img{
 .expertise-left{
     float: left;  
     margin-left:425px; 
-    margin-top: -200px; 
+    margin-top: -195px; 
     line-height: 1cm;
 } 
 
