@@ -127,8 +127,7 @@ img{
 } 
 
 .description .duration{ 
-    font-size:0.2em;
-    line-height:0.9em;
+    font-size:1.5em;
     font-weight: bold; 
     font-family:'Scheherazade', serif; 
 }
