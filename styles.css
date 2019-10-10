@@ -83,7 +83,8 @@ img{
 .bio p{
     margin: 3em; 
     line-height: 1cm;  
-    text-align: left;
+    text-align: left; 
+    font-size:0.5em;
 } 
 
 .description{
@@ -95,22 +96,22 @@ img{
 .description .info{ 
     text-align: left; 
     margin-top: auto;
-    margin-left: 500px;
+    margin-left: 200px;
     float: left;
     position: relative;
     top: -8px;
 }  
 
 .description .info2{
-    margin-left: 425px;
+    margin-left: 220px;
 } 
 
 .description .info3{
-    margin-left: 420px;
+    margin-left: 320px;
 } 
 
 .description .info4{
-    margin-left: 420px;
+    margin-left: 325px;
 } 
 
 .description .info h3{
