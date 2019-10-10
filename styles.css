@@ -92,7 +92,9 @@ img{
 } 
 
 .description{
-    display: flex;
+    display: flex; 
+    margin-top: 30px;
+    margin-bottom: 30px;
 } 
 
 .description .info{  
@@ -136,5 +138,5 @@ img{
 
 .expertise-left{
     float: right; 
-
+    margin-left: 240px;
 }
