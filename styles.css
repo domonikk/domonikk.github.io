@@ -118,7 +118,7 @@ img{
     margin-left: 240px;
 } 
 
-.description .info h3{
+.description .info h3, .description .info2 h3, .description .info3 h3, .description .info4 h3{
     margin-bottom: 5px; 
     font-family:'Scheherazade', serif;
 } 
@@ -139,5 +139,5 @@ img{
 
 .expertise-left{
     float: right; 
-    margin-left: 220px;
+
 }
