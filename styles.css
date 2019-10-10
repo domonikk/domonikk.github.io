@@ -34,12 +34,12 @@ header{
 }
 
 .Sidebar h2{
-    text-align: left;
+    text-align: left; 
     color: black; 
     font-family:'Scheherazade', serif;
     font-weight: bold; 
     font-size:30px; 
-    margin-right:4em;
+    margin-right:20px;
 }  
 
 img{
