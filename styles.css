@@ -126,8 +126,8 @@ img{
 } 
 
 .description .duration{ 
-    font-size:0.9;
-    line-height:0.9;
+    font-size:0.9em;
+    line-height:0.9em;
     font-weight: bold; 
     font-family:'Scheherazade', serif; 
 }
@@ -146,5 +146,5 @@ img{
 } 
 
 hr.divide1{ 
-    border: 2px solid black;
+    border: 1px solid black;
 }
