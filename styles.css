@@ -34,7 +34,8 @@ header{
     margin-right: 20px;
 }
 
-.Sidebar h2{
+.Sidebar h2{ 
+    text-align:justify;
     color: black; 
     font-family:'Scheherazade', serif;
     font-weight: bold; 
