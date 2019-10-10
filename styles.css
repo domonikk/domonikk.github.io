@@ -133,5 +133,6 @@ img{
 
 .expertise-left{
     float: left;  
-    margin-left:400px;
+    margin-left:410px; 
+    margin-top: -300px;
 }
