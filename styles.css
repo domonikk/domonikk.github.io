@@ -106,6 +106,7 @@ img{
 
 .description .info2{
     margin-left: 180px; 
+    margin-top:-20px; 
 } 
 
 .description .info3{
@@ -114,7 +115,8 @@ img{
 } 
 
 .description .info4{
-    margin-left: 240px;
+    margin-left: 240px; 
+    margin-top:-20px
 } 
 
 .description .info h3, .description .info2 h3, .description .info3 h3, .description .info4 h3{
