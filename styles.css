@@ -82,7 +82,7 @@ img{
 
 .bio p{
     margin: 3em; 
-    line-height: 0.5cm; 
+    line-height: 1cm; 
     text-align:left; 
 } 
 
@@ -128,7 +128,6 @@ img{
 
 .expertise-right{
     float: left;  
-    padding-right: 60em;
 } 
 
 .expertise-left{
