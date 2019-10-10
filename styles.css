@@ -34,12 +34,13 @@ header{
     margin-right: 20px;
 }
 
-.Sidebar h2{ 
-    text-align:justify;
+.contact h2, .Social h2{ 
+    text-align:right;
     color: black; 
     font-family:'Scheherazade', serif;
     font-weight: bold; 
     font-size:30px; 
+    margin-right:-20px;
 }  
 
 img{
