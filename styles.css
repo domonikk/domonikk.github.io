@@ -30,12 +30,14 @@ header{
     grid-column: 2;
     grid-row: 2;
     background-color: beige; 
-    line-height: 1cm;
+    line-height: 2cm;
 } 
 
 .Sidebar h2{
     text-align: left;
-    color: black;
+    color: black; 
+    font-family:'Scheherazade', serif;
+    font-weight: bold;
 }  
 
 img{
@@ -108,11 +110,11 @@ img{
 } 
 
 .description .info3{
-    margin-left: 200px;
+    margin-left: 220px;
 } 
 
 .description .info4{
-    margin-left: 220px;
+    margin-left: 240px;
 } 
 
 .description .info h3{
