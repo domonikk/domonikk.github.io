@@ -67,7 +67,7 @@ img{
     margin-left: 2em;
     margin-right: 20px;
     background-color: white; 
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Mate', serif;
     padding-right: 4em;
 }  
 
@@ -87,7 +87,7 @@ img{
 .bio p{
     line-height: 1cm;  
     text-align: left; 
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Mate', serif;
 } 
 
 .description{
@@ -106,7 +106,7 @@ img{
 
 .description .info2{
     margin-left: 180px; 
-    margin-top:-20px; 
+    margin-top:-25px; 
 } 
 
 .description .info3{
@@ -116,7 +116,7 @@ img{
 
 .description .info4{
     margin-left: 240px; 
-    margin-top:-20px
+    margin-top:-25px
 } 
 
 .description .info h3, .description .info2 h3, .description .info3 h3, .description .info4 h3{
@@ -138,4 +138,10 @@ img{
     float: left;  
     margin-left:425px; 
     margin-top: -105px;
+} 
+
+hr.divide1{ 
+    border: 1px solid black;
+    border-width:75%;
+
 }
