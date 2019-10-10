@@ -67,7 +67,8 @@ img{
     margin-left: 2em;
     margin-right: 20px;
     background-color: white; 
-    font-family: 'Mate', serif;
+    font-family: 'Mate', serif; 
+    font-size: 2em
     padding-right: 4em;
 }  
 
@@ -87,7 +88,8 @@ img{
 .bio p{
     line-height: 1cm;  
     text-align: left; 
-    font-family:'Mate', serif;
+    font-family:'Mate', serif; 
+    font-size:2em;
 } 
 
 .description{
