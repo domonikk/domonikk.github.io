@@ -67,14 +67,17 @@ img{
     padding-right: 4em;
 }  
 
-h2{
+.Main h2{
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     color: black;
 } 
 
 .experience .Education .expertise h2{
-    text-transform: capitalize;
+    text-transform: uppercase; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: black;
 }
 
 .bio p{
@@ -124,10 +127,11 @@ h2{
 } 
 
 .expertise-right{
-    float: left; 
+    float: left;  
+    padding-right: 60em;
 } 
 
 .expertise-left{
     float: right; 
-    padding-left: 60em;
+    padding-left: 10em;
 }
