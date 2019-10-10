@@ -29,7 +29,8 @@ header{
 .Sidebar{ 
     grid-column: 2;
     grid-row: 2;
-    background-color: beige;
+    background-color: beige; 
+    line-height: 1cm;
 } 
 
 .Sidebar h2{
