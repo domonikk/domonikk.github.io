@@ -31,8 +31,7 @@ header{
     grid-row: 2;
     background-color: beige; 
     line-height: 2cm; 
-    padding-left: 10px;
-} 
+}
 
 .Sidebar h2{
     text-align: left;
@@ -66,7 +65,7 @@ img{
     grid-column: 3;
     grid-row: 2;
     margin-left: 2em;
-    margin-right: 2em;
+    margin-right: 20px;
     background-color: white; 
     font-family: 'Times New Roman', Times, serif;
     padding-right: 4em;
