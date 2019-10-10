@@ -101,15 +101,16 @@ img{
     margin-top: auto;
     margin-left: 280px;
     float: left; 
-    margin-top:-100px;
+    margin-top:-50px;
 }  
 
 .description .info2{
-    margin-left: 180px;
+    margin-left: 180px; 
 } 
 
 .description .info3{
-    margin-left: 220px;
+    margin-left: 220px; 
+    margin-top:-50px;
 } 
 
 .description .info4{
