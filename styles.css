@@ -84,7 +84,7 @@ img{
     margin: 3em; 
     line-height: 1cm;  
     text-align: left; 
-    font-size:0.5em;
+    font-size:1cm;
 } 
 
 .description{
@@ -96,7 +96,7 @@ img{
 .description .info{ 
     text-align: left; 
     margin-top: auto;
-    margin-left: 200px;
+    margin-left: 300px;
     float: left;
     position: relative;
     top: -8px;
@@ -107,11 +107,11 @@ img{
 } 
 
 .description .info3{
-    margin-left: 320px;
+    margin-left: 220px;
 } 
 
 .description .info4{
-    margin-left: 325px;
+    margin-left: 220px;
 } 
 
 .description .info h3{
