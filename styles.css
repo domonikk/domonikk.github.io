@@ -1,7 +1,7 @@
 .grid-container{ 
     display:grid; 
     grid-area: 40% 60% / 5% 30% 60% 5%;
-    grid-gap: 3em 25px;
+    grid-gap: 3em 50px;
 }
 
 header{
