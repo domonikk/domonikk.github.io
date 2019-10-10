@@ -49,13 +49,13 @@ img{
 .contact{
     padding-bottom: 2em; 
     font-family: 'Scheherazade', serif;
-    font-size: 20px;
+    font-size: 25px;
 } 
 
 .media{
     padding-top: 2em;
     font-family: 'Scheherazade', serif;
-    font-size: 18px;   
+    font-size: 25px;   
 } 
 
 .Main{
@@ -85,7 +85,6 @@ img{
     margin: 3em; 
     line-height: 1cm;  
     text-align: left; 
-    font-size:; 
     font-family:'Times New Roman', Times, serif;
 } 
 
@@ -109,11 +108,11 @@ img{
 } 
 
 .description .info3{
-    margin-left: 220px;
+    margin-left: 200px;
 } 
 
 .description .info4{
-    margin-left: 200px;
+    margin-left: 220px;
 } 
 
 .description .info h3{
