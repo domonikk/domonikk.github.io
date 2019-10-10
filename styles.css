@@ -74,12 +74,12 @@ h2{
 } 
 
 .experience .Education .expertise h2{
-    text-transform: uppercase;
+    text-transform: capitalize;
 }
 
 .bio p{
     margin: 3em; 
-    line-height: 2cm; 
+    line-height: 0.5cm; 
     text-align:left; 
 } 
 
@@ -103,11 +103,11 @@ h2{
 } 
 
 .description .info3{
-    margin-left: 425px;
+    margin-left: 420px;
 } 
 
 .description .info4{
-    margin-left: 425px;
+    margin-left: 420px;
 } 
 
 .description .info h3{
@@ -124,10 +124,10 @@ h2{
 } 
 
 .expertise-right{
-    float: left;
+    float: left; 
 } 
 
 .expertise-left{
     float: right; 
-    padding-left: 10em;
+    padding-left: 60em;
 }
