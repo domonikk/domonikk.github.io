@@ -52,11 +52,13 @@ img{
 .contact{
     padding-bottom: 2em; 
     font-family: 'Scheherazade', serif;
-    font-size: 25px;
+    font-size: 25px; 
+    padding-right:4em;
 } 
 
 .media{
-    padding-top: 2em;
+    padding-top: 2em; 
+    padding-right: 4em;
     font-family: 'Scheherazade', serif;
     font-size: 25px;   
 } 
@@ -135,10 +137,14 @@ img{
     display:flex;
 } 
 
+.expertise-right{
+    line-height: 1cm;
+}
 .expertise-left{
     float: left;  
     margin-left:425px; 
-    margin-top: -105px;
+    margin-top: -105px; 
+    line-height: 1cm;
 } 
 
 hr.divide1{ 
