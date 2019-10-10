@@ -37,7 +37,8 @@ header{
     text-align: left;
     color: black; 
     font-family:'Scheherazade', serif;
-    font-weight: bold;
+    font-weight: bold; 
+    font-size:30px;
 }  
 
 img{
@@ -118,14 +119,15 @@ img{
 } 
 
 .description .info h3{
-    margin-bottom: 5px;
+    margin-bottom: 5px; 
+    font-family:'Scheherazade', serif;
 } 
 
 .description .duration{
     font-size: 1.5em;
     line-height: 0.9em;
     font-weight: bold; 
-    font-family:'Scheherazade', serif; ;
+    font-family:'Scheherazade', serif; 
 }
 .skils{
     display:flex;
@@ -137,5 +139,5 @@ img{
 
 .expertise-left{
     float: right; 
-    padding-left: 10em;
+    margin-left: 220px;
 }
