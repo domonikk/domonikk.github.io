@@ -33,7 +33,7 @@ header{
 } 
 
 .Sidebar h2{
-    text-align: center;
+    text-align: left;
     color: black;
 }  
 
@@ -68,9 +68,13 @@ img{
 }  
 
 h2{
-    font-family: Bradely Hand, cursive;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
     color: black;
+} 
+
+.experience .Education .expertise h2{
+    text-transform: uppercase;
 }
 
 .bio p{
@@ -101,7 +105,7 @@ h2{
 } 
 
 .description .info4{
-    margin-left: 470px;
+    margin-left: 425px;
 } 
 
 .description .info h3{
