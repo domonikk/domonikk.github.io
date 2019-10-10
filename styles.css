@@ -101,7 +101,7 @@ img{
     margin-top: auto;
     margin-left: 280px;
     float: left; 
-    top:-200px;
+    margin-top:-100px;
 }  
 
 .description .info2{
@@ -133,6 +133,6 @@ img{
 
 .expertise-left{
     float: left;  
-    margin-left:420px; 
-    margin-top: -100px;
+    margin-left:425px; 
+    margin-top: -105px;
 }
