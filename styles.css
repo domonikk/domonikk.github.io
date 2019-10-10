@@ -13,7 +13,7 @@ header{
     background-color: aquamarine;
     text-align: center;
     color: white; 
-    font-family: 'Times New Roman', Times, serif; 
+    font-family: 'Bad Script', cursive;
     padding-top: 1.5em;
     padding-bottom: 1.5 em; 
     padding-left: 25em;
@@ -47,13 +47,13 @@ img{
  
 .contact{
     padding-bottom: 2em; 
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Bad Script' cursive;
     font-size: 18px;
 } 
 
 .media{
     padding-top: 2em;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Bad Script', cursive;
     font-size: 18px;   
 } 
 
@@ -63,7 +63,7 @@ img{
     margin-left: 2em;
     margin-right: 2em;
     background-color: white; 
-    font-family: 'Lato', Arial, sans-serif;
+    font-family: 'Bad Script', cursive;
     padding-right: 4em;
 }  
 
@@ -73,7 +73,7 @@ img{
     color: black;
 } 
 
-.experience .Education .expertise h2{
+.experience h2, .Education h2, .expertise h2{
     text-transform: uppercase; 
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
@@ -82,7 +82,8 @@ img{
 
 .bio p{
     margin: 3em; 
-    line-height: 1cm; 
+    line-height: 1cm;  
+    text-align: left;
 } 
 
 .description{
@@ -117,9 +118,10 @@ img{
 } 
 
 .description .duration{
-    font-size: 1em;
+    font-size: 1.5em;
     line-height: 0.9em;
-    font-weight: bold;
+    font-weight: bold; 
+    font-family: 'Bad Script', cursive;
 }
 .skils{
     display:flex;
