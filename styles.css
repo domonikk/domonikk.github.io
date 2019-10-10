@@ -125,7 +125,8 @@ img{
     font-size: 1.5em;
 } 
 
-.description .duration{
+.description .duration{ 
+    font-size:30px;
     line-height: 0.9em;
     font-weight: bold; 
     font-family:'Scheherazade', serif; 
