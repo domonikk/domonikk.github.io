@@ -48,8 +48,8 @@ img{
  
 .contact{
     padding-bottom: 2em; 
-    font-family:'Scheherazade', serif; 
-    font-size: 18px;
+    font-family: 'Scheherazade', serif;
+    font-size: 20px;
 } 
 
 .media{
@@ -64,13 +64,13 @@ img{
     margin-left: 2em;
     margin-right: 2em;
     background-color: white; 
-    font-family: 'Scheherazade', serif;
+    font-family: 'Times New Roman', Times, serif
     padding-right: 4em;
 }  
 
 .Main h2{
     font-family: 'Scheherazade', serif;
-    font-size: 30px;
+    font-size: 35px;
     color: black;
 } 
 
@@ -85,8 +85,8 @@ img{
     margin: 3em; 
     line-height: 1cm;  
     text-align: left; 
-    font-size:0.5cm; 
-    font-family: 'Scheherazade', serif;
+    font-size:1cm; 
+    font-family:'Times New Roman', Times, serif;
 } 
 
 .description{
@@ -124,7 +124,7 @@ img{
     font-size: 1.5em;
     line-height: 0.9em;
     font-weight: bold; 
-    font-family: 'Bad Script', cursive;
+    font-family:'Scheherazade', serif; ;
 }
 .skils{
     display:flex;
