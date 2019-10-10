@@ -35,7 +35,7 @@ header{
 
 .contact h2, .Social h2{ 
     text-align:left; 
-    margin-left:20px;
+    margin-left:-40px;
     color: black; 
     font-family:'Scheherazade', serif;
     font-weight: bold;  
@@ -127,7 +127,7 @@ img{
 } 
 
 .description .duration{ 
-    font-size:1.5em;
+    font-size:15px;
     font-weight: bold; 
     font-family:'Scheherazade', serif; 
 }
