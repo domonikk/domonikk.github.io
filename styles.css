@@ -101,7 +101,7 @@ img{
 .description .info{  
     text-align: left;  
     margin-top: auto; 
-    margin-left:300px;
+    margin-left:250px;
     float: left; 
     margin-top:-30px;
 }  
@@ -127,7 +127,7 @@ img{
 } 
 
 .description .duration{ 
-    font-size:1em;
+    font-size:0.9em;
     line-height:0.9em;
     font-weight: bold; 
     font-family:'Scheherazade', serif; 
