@@ -16,8 +16,8 @@ header{
     font-family: 'Berkshire Swash', cursive;
     padding-top: 1.5em;
     padding-bottom: 1.5em;   
-    padding-right: 10px; 
-    padding-left:10px;
+    padding-right: 15px; 
+    padding-left:15px;
 } 
 
 .header{ 
@@ -127,7 +127,7 @@ img{
 } 
 
 .description .duration{ 
-    font-size:0.9em;
+    font-size:2em;
     line-height:0.9em;
     font-weight: bold; 
     font-family:'Scheherazade', serif; 
