@@ -1,7 +1,7 @@
 .grid-container{ 
     display:grid; 
     grid-area: 40% 60% / 5% 30% 60% 5%;
-    grid-gap: 3em 10px;
+    grid-gap: 3em 30px;
 }
 
 header{
@@ -28,6 +28,7 @@ header{
     grid-column: 2;
     grid-row: 2;
     background-color: beige; 
+    line-height: 1cm;
 }
 
 .contact h2, .Social h2{ 
