@@ -93,7 +93,7 @@ h2{
 }  
 
 .description .info2{
-    margin-left: 435px;
+    margin-left: 425px;
 } 
 
 .description .info3{
@@ -109,11 +109,11 @@ h2{
 } 
 
 .description .duration{
-    font-size: 0.9em;
-    line-height:0.9em;
+    font-size: 1em;
+    line-height: 0.9em;
     font-weight: bold;
 }
-.expertise{
+.skils{
     display:flex;
 } 
 
