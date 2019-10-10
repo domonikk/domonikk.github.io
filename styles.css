@@ -13,7 +13,7 @@ header{
     background-color: aquamarine;
     text-align: center;
     color: white; 
-    font-family: 'Bad Script', cursive;
+    font-family: 'Berkshire Swash', cursive;
     padding-top: 1.5em;
     padding-bottom: 1.5 em; 
     padding-left: 25em;
@@ -48,13 +48,13 @@ img{
  
 .contact{
     padding-bottom: 2em; 
-    font-family: 'Bad Script' cursive;
+    font-family:'Scheherazade', serif; 
     font-size: 18px;
 } 
 
 .media{
     padding-top: 2em;
-    font-family: 'Bad Script', cursive;
+    font-family: 'Scheherazade', serif;
     font-size: 18px;   
 } 
 
@@ -64,19 +64,19 @@ img{
     margin-left: 2em;
     margin-right: 2em;
     background-color: white; 
-    font-family: 'Bad Script', cursive;
+    font-family: 'Scheherazade', serif;
     padding-right: 4em;
 }  
 
 .Main h2{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Scheherazade', serif;
     font-size: 30px;
     color: black;
 } 
 
 .experience h2, .Education h2, .expertise h2{
     text-transform: uppercase; 
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Scheherazade', serif;
     font-size: 30px;
     color: black;
 }
@@ -85,7 +85,8 @@ img{
     margin: 3em; 
     line-height: 1cm;  
     text-align: left; 
-    font-size:1cm;
+    font-size:0.5cm; 
+    font-family: 'Scheherazade', serif;
 } 
 
 .description{
@@ -104,7 +105,7 @@ img{
 }  
 
 .description .info2{
-    margin-left: 220px;
+    margin-left: 200px;
 } 
 
 .description .info3{
@@ -112,7 +113,7 @@ img{
 } 
 
 .description .info4{
-    margin-left: 220px;
+    margin-left: 200px;
 } 
 
 .description .info h3{
