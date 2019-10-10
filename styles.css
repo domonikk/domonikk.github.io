@@ -38,7 +38,8 @@ header{
     color: black; 
     font-family:'Scheherazade', serif;
     font-weight: bold; 
-    font-size:30px;
+    font-size:30px; 
+    margin-right:4em;
 }  
 
 img{
@@ -53,12 +54,10 @@ img{
     padding-bottom: 2em; 
     font-family: 'Scheherazade', serif;
     font-size: 25px; 
-    padding-right:4em;
 } 
 
 .media{
     padding-top: 2em; 
-    padding-right: 4em;
     font-family: 'Scheherazade', serif;
     font-size: 25px;   
 } 
@@ -143,7 +142,7 @@ img{
 .expertise-left{
     float: left;  
     margin-left:425px; 
-    margin-top: -105px; 
+    margin-top: -120px; 
     line-height: 1cm;
 } 
 
