@@ -131,11 +131,7 @@ img{
     display:flex;
 } 
 
-.expertise-right{
-    float: left;  
-} 
-
 .expertise-left{
-    float: right; 
+    float: left; 
     margin-left: 500px;
 }
